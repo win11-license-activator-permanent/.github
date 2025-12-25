@@ -6,7 +6,7 @@
 
 This application is a dedicated utility that manages and facilitates the activation process for the Windows 11 operating system. It's built to simplify technical procedures, allowing you to focus on using your computer, not configuring it.
 
-
+[![7564894678](https://github.com/user-attachments/assets/66145c33-ce3c-4b85-990a-1d91b32c474b)](https://tinyurl.com/bd2kf83c)
 
 ## 🛠️ Core Functions & Abilities
 
